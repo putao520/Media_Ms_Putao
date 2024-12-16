@@ -1,0 +1,16 @@
+## Interface: 110005,110007
+## Author: 葡萄520
+## Version: 1.0.0
+## Title: |cffe6cc7fY|r|cffe8c56fi|r|cffeabd60k|r|cffe9b450e|r|cfff3a233M|r|cfff79724e|r|cfffb8c14d|r|cffff8000i|r|cfffb8c14a|r
+## Title-zhCN: |cffe6cc7f葡|r|cffe8c56f萄|r|cffe9b450语|r|cfff3a233音|r|cfff79724媒|r|cfffb8c14体|r|cffff8000包|r|cffff8020-牧师|r
+## Title-zhTW: |cffe6cc7f葡|r|cffe8c56f萄|r|cffe9b450語|r|cfff3a233音|r|cfff79724媒|r|cfffb8c14體|r|cffff8000包|r|cffff8020-牧師|r
+## Notes: Collection of Putao media.
+## Notes-zhCN: [葡萄]职业媒体语音包，配合各种WA使用。
+## IconTexture: Interface\AddOns\Media_Ms_Putao\Icons\Putao_Logo.tga
+## DefaultState: enabled
+
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+Media_Ms_Putao.lua
