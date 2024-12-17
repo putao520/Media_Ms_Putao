@@ -5,7 +5,7 @@
 ## Title-zhCN: |cffe6cc7f葡|r|cffe8c56f萄|r|cffe9b450语|r|cfff3a233音|r|cfff79724媒|r|cfffb8c14体|r|cffff8000包|r|cffff8020-牧师|r
 ## Title-zhTW: |cffe6cc7f葡|r|cffe8c56f萄|r|cffe9b450語|r|cfff3a233音|r|cfff79724媒|r|cfffb8c14體|r|cffff8000包|r|cffff8020-牧師|r
 ## Notes: Collection of Putao media.
-## Notes-zhCN: [葡萄]职业媒体语音包，配合各种WA使用。
+## Notes-zhCN: [葡萄]职业媒体语音包，配合牧师各种WA使用。
 ## IconTexture: Interface\AddOns\Media_Ms_Putao\Icons\Putao_Logo.tga
 ## DefaultState: enabled
 

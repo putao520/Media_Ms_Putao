@@ -1,6 +1,6 @@
 local LSM = LibStub("LibSharedMedia-3.0")
 
-print("|cffff5a9b-------------葡萄媒体包已载入!-------------|r")
+print("|cffff5a9b-------------葡萄媒体包[牧师]已载入!-------------|r")
 
 LSM:Register("sound", "[putao]阴暗面之力已结束", [[Interface\Addons\Media_Ms_Putao\Sound\[putao]阴暗面之力已结束.mp3]])
 LSM:Register("sound", "[putao]全神盾已耗尽", [[Interface\Addons\Media_Ms_Putao\Sound\[putao]全神盾已耗尽.mp3]])
