@@ -4,6 +4,7 @@ if( v1 == "牧师") then
 	print("|cffff5a9b-------------葡萄媒体包[牧师]已载入!-------------|r")
 	LSM:Register("sound", "[putao]全神盾已耗尽", [[Interface\Addons\Media_Ms_Putao\Sound\[putao]全神盾已耗尽.mp3]])
 	LSM:Register("sound", "[putao]死亡之风即将消失", [[Interface\Addons\Media_Ms_Putao\Sound\[putao]死亡之风即将消失.mp3]])
+	LSM:Register("sound", "[putao]神圣化身即将消失", [[Interface\Addons\Media_Ms_Putao\Sound\[putao]神圣化身即将消失.mp3]])
 	LSM:Register("sound", "[putao]神言已就绪", [[Interface\Addons\Media_Ms_Putao\Sound\[putao]神言已就绪.mp3]])
 	LSM:Register("sound", "[putao]瞬发快疗", [[Interface\Addons\Media_Ms_Putao\Sound\[putao]瞬发快疗.mp3]])
 	LSM:Register("sound", "[putao]瞬发治疗", [[Interface\Addons\Media_Ms_Putao\Sound\[putao]瞬发治疗.mp3]])
