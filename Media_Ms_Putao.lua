@@ -16,4 +16,6 @@ if( v1 == "牧师") then
 	LSM:Register("sound", "[putao]远见预兆消失", [[Interface\Addons\Media_Ms_Putao\Sound\[putao]远见预兆消失.mp3]])
 	LSM:Register("sound", "[putao]暗影魔3秒后结束", [[Interface\Addons\Media_Ms_Putao\Sound\[putao]暗影魔3秒后结束.mp3]])
 	LSM:Register("sound", "[putao]快用命", [[Interface\Addons\Media_Ms_Putao\Sound\[putao]快用命.mp3]])
+	LSM:Register("sound", "[putao]震爆已就绪", [[Interface\Addons\Media_Ms_Putao\Sound\[putao]震爆已就绪.mp3]])
+	LSM:Register("sound", "[putao]暗影魔已就绪", [[Interface\Addons\Media_Ms_Putao\Sound\[putao]暗影魔已就绪.mp3]])
 end
